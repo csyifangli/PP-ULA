@@ -59,5 +59,6 @@ number of iterations.
 RELATED PUBLICATION:
 
 # M.-C. Corbineau, D. Kouame, E. Chouzenoux, J.-Y. Tourneret, & J.-C. Pesquet (2019). Preconditioned 
-P-ULA for Joint Deconvolution-Segmentation of Ultrasound Images. arXiv preprint arXiv:1903.08111.
+P-ULA for Joint Deconvolution-Segmentation of Ultrasound Images - Extended version.   arXiv  preprint 
+arXiv:1903.08111.
 -----------------------------------------------------------------------------------------------------
